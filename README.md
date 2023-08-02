@@ -35,9 +35,10 @@ flutter run
 
 <h2 align="center" id="DevelopedBy"> :label: Developed By</h2>
 
-   - [Shivam Menda](https://github.com/ShivamMenda) 
+   - [Shivam Menda](https://github.com/ShivamMenda)
+   - [Sharadhi NN](https://github.com/SharadhiNN)
    - [Prashasti Mattas](https://github.com/pr1397)
    - [Shania Vijay](https://github.com/ShaniaVijay)
-   - [Sharadhi NN](https://github.com/SharadhiNN)
+
 
 
